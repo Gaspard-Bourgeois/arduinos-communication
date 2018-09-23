@@ -8,3 +8,5 @@ Every communication is preceded by a "header" a sequence announcing the beginnin
 
 The code was used in a personal project than you can see in my personal portfolio.
 [More information about the Project](https://gaspard-bourgeois.github.io/conception-of-a-wireless-system-imitating-a-pacemaker/)
+
+You need to upload the same file in both Arduinos. But you need to execute RX() to receive data and TX() to emit data in the main function of the Arduino program.
